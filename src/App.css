@@ -1,0 +1,39 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+html,body{
+height: 100%;
+width: 100%;
+}
+#page{
+    background-color: rgb(51,49,90);
+   
+  
+}
+hr{
+   border: 0px solid #4b497eaf;
+}
+#header{
+    color: rgb(114, 109, 155);
+}
+
+#box{
+    background-color: rgb(51,49,90);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+}
+#input{
+    background-color: rgb(40,41,80);
+    outline: none;
+    color: aliceblue;
+}
+
+#addBtn{
+    outline: none;
+    background-color: #4074A9;
+}
+#tasks{
+    background-color: rgb(68,68,106);
+}
